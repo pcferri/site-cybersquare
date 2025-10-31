@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- Página principal -->
+    <url>
+        <loc>https://www.cybersquare.com.br/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Página em Espanhol -->
+    <url>
+        <loc>https://www.cybersquare.com.br/index_es.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Página em Inglês -->
+    <url>
+        <loc>https://www.cybersquare.com.br/index_us.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Manual em Português -->
+    <url>
+        <loc>https://www.cybersquare.com.br/manual-cyber-square.pdf</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Manual em Inglês -->
+    <url>
+        <loc>https://www.cybersquare.com.br/User%20Manual%20of%20cyber%20square.pdf</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Manual em Espanhol -->
+    <url>
+        <loc>https://www.cybersquare.com.br/Manual%20de%20usuario%20de%20Cyber%20Square.pdf</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Executável de instalação -->
+    <url>
+        <loc>https://www.cybersquare.com.br/Setup_Cyber_Square_8.0.6.exe</loc>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+</urlset>
